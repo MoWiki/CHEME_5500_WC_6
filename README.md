@@ -9,6 +9,9 @@
 4. Don't be embarrased to take breaks. BUT, do not take breaks while you are hanging your weight. 
 5. Focus on using your leg muscles to hold yourself on each hold. 
 
+s = "Python syntax highlighting"
+print s
+
 a="Are you ready to climb?"
 print(a)
 
